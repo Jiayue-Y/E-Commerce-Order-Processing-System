@@ -1,2 +1,2 @@
-The time complexity of this program ranges from O(n).
+The time complexity of this program is O(n), n being the number of orders.
 The space complexity is O(n).
